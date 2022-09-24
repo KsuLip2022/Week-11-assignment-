@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>mysql-java</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>entity</name>
+			<type>2</type>
+			<location>C:/Users/pbuda/Desktop/Promineo/SQL/Week-9/Student Resource - Provided Source Code/Homework/entity</location>
+		</link>
+		<link>
+			<name>projects</name>
+			<type>2</type>
+			<location>C:/Users/pbuda/eclipse-workspace/Student Resource - Provided Source Code/Homework/entity/projects</location>
+		</link>
+		<link>
+			<name>util</name>
+			<type>2</type>
+			<location>C:/Users/pbuda/Desktop/Promineo/SQL/Week-9/Student Resource - Provided Source Code/Homework/provided/util</location>
+		</link>
+	</linkedResources>
+</projectDescription>
