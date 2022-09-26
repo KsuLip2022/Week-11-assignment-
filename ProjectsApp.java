@@ -69,7 +69,6 @@ private // @formatter:off
 		}
 			catch (Exception e) {
 				System.out.println("\nError:" + e + " Try again");
-//				e.printStackTrace();
 			}
 		}
 	}
